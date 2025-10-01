@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center"> Python Bind Shell: For Educational Purposes Only. 
-Use only on hosts/networks you own or have permission to test. </h1>
+  <h1 align="center"> A minimal Python Bind Shell</h1>
 </p>
 
 ## 🚀 Quick Start
